@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31423.177
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelSpike", "ExcelSpike\ExcelSpike.csproj", "{7A7C9749-2E11-49DE-BAF8-B3326DE63F56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelSpike.Aspose", "ExcelSpike.Aspose\ExcelSpike.Aspose.csproj", "{F7B7E563-8D88-4A3B-8277-9EA76E7CE148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSpike.Common", "ExcelSpike.Common\ExcelSpike.Common.csproj", "{973B361A-A0B8-412A-A0FB-FA37CAAB046E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSpike.SpreadsheetGear", "ExcelSpike.SpreadsheetGear\ExcelSpike.SpreadsheetGear.csproj", "{2DB22482-4393-4332-9FC1-11322F273232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSpike.OpenXML", "ExcelSpike.OpenXML\ExcelSpike.OpenXML.csproj", "{B8DCDC62-85F3-4103-BA7B-7927680FF3EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSpike.InteropExcel", "ExcelSpike.InteropExcel\ExcelSpike.InteropExcel.csproj", "{35080801-DBBE-4873-A393-F490DF2E8D01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A7C9749-2E11-49DE-BAF8-B3326DE63F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7C9749-2E11-49DE-BAF8-B3326DE63F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7C9749-2E11-49DE-BAF8-B3326DE63F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7C9749-2E11-49DE-BAF8-B3326DE63F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B7E563-8D88-4A3B-8277-9EA76E7CE148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B7E563-8D88-4A3B-8277-9EA76E7CE148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B7E563-8D88-4A3B-8277-9EA76E7CE148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B7E563-8D88-4A3B-8277-9EA76E7CE148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973B361A-A0B8-412A-A0FB-FA37CAAB046E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973B361A-A0B8-412A-A0FB-FA37CAAB046E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973B361A-A0B8-412A-A0FB-FA37CAAB046E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973B361A-A0B8-412A-A0FB-FA37CAAB046E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB22482-4393-4332-9FC1-11322F273232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB22482-4393-4332-9FC1-11322F273232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB22482-4393-4332-9FC1-11322F273232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB22482-4393-4332-9FC1-11322F273232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DCDC62-85F3-4103-BA7B-7927680FF3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DCDC62-85F3-4103-BA7B-7927680FF3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DCDC62-85F3-4103-BA7B-7927680FF3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DCDC62-85F3-4103-BA7B-7927680FF3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35080801-DBBE-4873-A393-F490DF2E8D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35080801-DBBE-4873-A393-F490DF2E8D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35080801-DBBE-4873-A393-F490DF2E8D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35080801-DBBE-4873-A393-F490DF2E8D01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B271AFA6-CADD-4ED8-BE11-22FB8849817C}
+	EndGlobalSection
+EndGlobal
