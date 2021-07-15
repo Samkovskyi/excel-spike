@@ -31,7 +31,7 @@ namespace ExcelSpike.Spreadsheet
             cells["A4"].Formula = "=SUM(A1:A3)";
 
             //// Saving the Excel file
-            workbook.SaveAs($"{dataDir}{fileName}.xls", FileFormat.Excel8);
+            workbook.SaveAs($"{dataDir}{fileName}.xls", FileFormat.OpenXMLWorkbook);
            
             return Task.CompletedTask;
         }

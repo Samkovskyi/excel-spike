@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ExcelSpike.Aspose\ExcelSpike.Aspose.csproj" />
+    <ProjectReference Include="..\ExcelSpike.ClosedXML\ExcelSpike.ClosedXML.csproj" />
     <ProjectReference Include="..\ExcelSpike.InteropExcel\ExcelSpike.InteropExcel.csproj" />
     <ProjectReference Include="..\ExcelSpike.OpenXML\ExcelSpike.OpenXML.csproj" />
     <ProjectReference Include="..\ExcelSpike.SpreadsheetGear\ExcelSpike.SpreadsheetGear.csproj" />

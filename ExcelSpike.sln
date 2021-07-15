@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelSpike", "ExcelSpike\Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelSpike.Aspose", "ExcelSpike.Aspose\ExcelSpike.Aspose.csproj", "{F7B7E563-8D88-4A3B-8277-9EA76E7CE148}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSpike.Common", "ExcelSpike.Common\ExcelSpike.Common.csproj", "{973B361A-A0B8-412A-A0FB-FA37CAAB046E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelSpike.Common", "ExcelSpike.Common\ExcelSpike.Common.csproj", "{973B361A-A0B8-412A-A0FB-FA37CAAB046E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSpike.SpreadsheetGear", "ExcelSpike.SpreadsheetGear\ExcelSpike.SpreadsheetGear.csproj", "{2DB22482-4393-4332-9FC1-11322F273232}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelSpike.SpreadsheetGear", "ExcelSpike.SpreadsheetGear\ExcelSpike.SpreadsheetGear.csproj", "{2DB22482-4393-4332-9FC1-11322F273232}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSpike.OpenXML", "ExcelSpike.OpenXML\ExcelSpike.OpenXML.csproj", "{B8DCDC62-85F3-4103-BA7B-7927680FF3EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelSpike.OpenXML", "ExcelSpike.OpenXML\ExcelSpike.OpenXML.csproj", "{B8DCDC62-85F3-4103-BA7B-7927680FF3EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSpike.InteropExcel", "ExcelSpike.InteropExcel\ExcelSpike.InteropExcel.csproj", "{35080801-DBBE-4873-A393-F490DF2E8D01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelSpike.InteropExcel", "ExcelSpike.InteropExcel\ExcelSpike.InteropExcel.csproj", "{35080801-DBBE-4873-A393-F490DF2E8D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSpike.ClosedXML", "ExcelSpike.ClosedXML\ExcelSpike.ClosedXML.csproj", "{44FE718E-6564-4211-BFA9-5F7A022C529E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{35080801-DBBE-4873-A393-F490DF2E8D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35080801-DBBE-4873-A393-F490DF2E8D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35080801-DBBE-4873-A393-F490DF2E8D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44FE718E-6564-4211-BFA9-5F7A022C529E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FE718E-6564-4211-BFA9-5F7A022C529E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FE718E-6564-4211-BFA9-5F7A022C529E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FE718E-6564-4211-BFA9-5F7A022C529E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
